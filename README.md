@@ -1,33 +1,55 @@
-## Hi there 👋
+![Yuvraj Singh — Cybersecurity, Python and AI/ML](assets/profile-banner.svg)
 
-# 💫 About Me:
-## 👋 About Me<br><br>I'm Yuvraj Singh, a Computer Science (AI & ML) student passionate about Cybersecurity. Currently learning Web Security, Mobile Security, VAPT, and Blue Teaming while building practical projects. I enjoy Linux, Python, and solving security challenges.
+# Yuvraj Singh
 
+<p align="center">
+  <a href="https://github.com/Yuvraj-26-k?tab=repositories">Projects</a> ·
+  <a href="https://github.com/Yuvraj-26-k/cybersecurity-field-notes">Field notes</a> ·
+  <a href="mailto:ys9517711034@gmail.com">Contact</a>
+</p>
 
-## 🌐 Socials:
-[![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Yuvraj Singh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ys9517711034@gmail.com) 
+I'm **Yuvraj Singh**, a Computer Science student specializing in AI & ML and
+working toward a career in cybersecurity. My interests are penetration testing,
+web application and network security, Linux, and security automation.
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![XFCE](https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=Yuvraj-26-k&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=Yuvraj-26-k&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Yuvraj-26-k&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I build Python security-learning tools and document what I can verify. I'm
+exploring vulnerability research through authorized labs; I don't present study
+notes or tool output as professional experience or confirmed findings.
 
----
-[![](https://komarev.com/ghpvc/?username=Yuvraj-26-k&icon=0&color=0)](https://visitcount.itsvg.in)
+### Projects
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+| Project | What it demonstrates | Current scope |
+| --- | --- | --- |
+| [**Sentinel-AI**](https://github.com/Yuvraj-26-k/Sentinel-AI) | Python TCP scanning, network-event monitoring and optional AI explanations | Learning tool; measured results and uncertain clues stay distinct |
+| [**Security Operation Center**](https://github.com/Yuvraj-26-k/Security-Operation-Center) | React/FastAPI dashboard and Windows Sysmon investigation workflows | Local prototype; security hardening and feature validation remain |
+| [**Cybersecurity Field Notes**](https://github.com/Yuvraj-26-k/cybersecurity-field-notes) | Structured methodology, learning indexes and report templates | Initial structure; no completed CTF/research reports published yet |
 
-<!--
-**Yuvraj-26-k/Yuvraj-26-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Focused Python exercises
 
-Here are some ideas to get you started:
+- [SOC Log Analyzer](https://github.com/Yuvraj-26-k/soc-log-analyzer) — log statistics and indicator-candidate extraction.
+- [Security Evidence Collector](https://github.com/Yuvraj-26-k/security-evidence-collector) — shallow file-metadata inventory for DFIR practice.
+- [Hash Generator](https://github.com/Yuvraj-26-k/Hash-Generator) — digests of entered text, not file hashing.
+- [Starpass](https://github.com/Yuvraj-26-k/Starpass) — a password-utility exercise with documented randomness limitations.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: 
+### Learning and research interests
+
+Web authentication and authorization, OWASP vulnerability concepts, network
+protocols, Linux permissions, safe reconnaissance, and evidence-based reporting.
+My [SQL injection study notes](https://github.com/Yuvraj-26-k/SQL-injection-notes)
+remain a learning resource, not a vulnerability-discovery claim.
+
+### Technologies in my projects
+
+| Area | Technologies |
+| --- | --- |
+| Security automation | Python, standard-library CLI and file-processing tools |
+| Network investigation | Linux, Wireshark, Nmap; protocols and log analysis |
+| Web prototypes | React, TypeScript, FastAPI, SQLite |
+| Academic focus | Artificial intelligence and machine learning |
+
+I also build [SHEild](https://github.com/Yuvraj-26-k/SHEild), a public-safety
+prototype. It is separate from my cybersecurity projects and is not a verified
+phishing detector.
+
+I practice on owned or authorized systems and value reproducible results,
+clear limitations, responsible disclosure and remediation.

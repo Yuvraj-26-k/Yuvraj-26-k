@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="340" viewBox="0 0 1280 340" role="img" aria-labelledby="title desc">
+  <title id="title">Yuvraj Singh — Security through understanding</title>
+  <desc id="desc">Cybersecurity, Python and AI/ML. A dark blue banner with mint accents and a geometric shield.</desc>
+  <defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#081321"/><stop offset="1" stop-color="#132d40"/></linearGradient></defs>
+  <rect width="1280" height="340" rx="20" fill="url(#bg)"/>
+  <g stroke="#204052" opacity=".55"><path d="M0 70H1280M0 140H1280M0 210H1280M0 280H1280M160 0V340M320 0V340M480 0V340M640 0V340M800 0V340M960 0V340M1120 0V340"/></g>
+  <rect x="64" y="59" width="5" height="216" rx="2" fill="#69e5bd"/>
+  <text x="94" y="94" fill="#69e5bd" font-family="monospace" font-size="17" letter-spacing="3">BUILD / INVESTIGATE / UNDERSTAND</text>
+  <text x="90" y="167" fill="#f1f6fa" font-family="Segoe UI,Arial,sans-serif" font-size="62" font-weight="700">Yuvraj Singh</text>
+  <text x="94" y="214" fill="#bdcfdb" font-family="Segoe UI,Arial,sans-serif" font-size="24">Cybersecurity · Python · AI / ML</text>
+  <text x="94" y="261" fill="#8caaba" font-family="monospace" font-size="17">Security through understanding.</text>
+  <g transform="translate(1044 160)"><circle r="108" fill="#0b1d2a" stroke="#244655"/><path d="M0-72 58-49V-3C58 37 30 63 0 80-30 63-58 37-58-3V-49Z" fill="none" stroke="#69e5bd" stroke-width="4"/><path d="m-29 4 19 19 39-44" fill="none" stroke="#69e5bd" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/></g>
+</svg>
